@@ -1,5 +1,26 @@
 {
   "stats": {
+    "minecraft:custom": {
+      "minecraft:time_since_rest": 279623,
+      "minecraft:walk_one_cm": 715905,
+      "minecraft:leave_game": 13,
+      "minecraft:walk_under_water_one_cm": 38621,
+      "minecraft:damage_taken": 170,
+      "minecraft:play_time": 332819,
+      "minecraft:damage_dealt": 50,
+      "minecraft:jump": 428,
+      "minecraft:time_since_death": 332819,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 6308,
+      "minecraft:sleep_in_bed": 1,
+      "minecraft:fall_one_cm": 1355,
+      "minecraft:total_world_time": 1279041,
+      "minecraft:swim_one_cm": 1463,
+      "minecraft:fly_one_cm": 1135297,
+      "minecraft:walk_on_water_one_cm": 27186,
+      "minecraft:crouch_one_cm": 645,
+      "minecraft:sneak_time": 515
+    },
     "minecraft:picked_up": {
       "minecraft:tropical_fish": 2,
       "minecraft:gray_carpet": 17,
@@ -16,27 +37,6 @@
       "minecraft:wheat": 5,
       "minecraft:spruce_trapdoor": 1,
       "minecraft:torchflower": 1
-    },
-    "minecraft:custom": {
-      "minecraft:time_since_rest": 278479,
-      "minecraft:walk_one_cm": 715853,
-      "minecraft:leave_game": 12,
-      "minecraft:walk_under_water_one_cm": 38621,
-      "minecraft:damage_taken": 170,
-      "minecraft:play_time": 331675,
-      "minecraft:damage_dealt": 50,
-      "minecraft:jump": 427,
-      "minecraft:time_since_death": 331675,
-      "minecraft:drop": 1,
-      "minecraft:sprint_one_cm": 6308,
-      "minecraft:sleep_in_bed": 1,
-      "minecraft:fall_one_cm": 1355,
-      "minecraft:total_world_time": 1277867,
-      "minecraft:swim_one_cm": 1463,
-      "minecraft:fly_one_cm": 1131522,
-      "minecraft:walk_on_water_one_cm": 27180,
-      "minecraft:crouch_one_cm": 645,
-      "minecraft:sneak_time": 515
     },
     "minecraft:used": {
       "minecraft:oak_fence": 45,
