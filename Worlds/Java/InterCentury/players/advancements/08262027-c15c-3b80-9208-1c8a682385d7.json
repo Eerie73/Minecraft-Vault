@@ -169,7 +169,8 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:forest": "2026-08-02 11:11:27 +0600"
+      "minecraft:forest": "2026-08-02 11:11:27 +0600",
+      "minecraft:river": "2026-08-04 02:27:04 +0600"
     },
     "done": false
   },
